@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raj Gaurav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-gaurav6&label=Profile%20views&color=0e75b6&style=flat" alt="raj-gaurav6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-gaurav6" alt="raj-gaurav6" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajgaurav346164" target="blank"><img src="https://img.shields.io/twitter/follow/rajgaurav346164?logo=twitter&style=for-the-badge" alt="rajgaurav346164" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 - 🌱 I’m currently Studying Final Year Student in Computer Science And Engineering.
 
 - 💬 Ask me about **anything**
